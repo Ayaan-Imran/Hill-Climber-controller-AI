@@ -10,4 +10,4 @@
 **NOTE**: For installing mediapipe successfully, you must use python 3.7 or below!
 
 ## How to use the app
-Check out this short YouTube video for detailed explaination: 
+Check out this short YouTube video for detailed explaination ==> https://www.youtube.com/watch?v=vXWKMyTzvtY
